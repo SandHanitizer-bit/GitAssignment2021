@@ -1886,6 +1886,22 @@ contacts: [
         }
     ]      
 },
+
+{
+    entryNum: 705,
+    name : "Krutik Patel",
+    image: '/assets/2020PH10705.jpeg',
+    branch: "PH",
+    about: 'Love Creating memes , Cricket enthusiast , Passionate to make a difference but wasting time playing valorant',
+    contact: [
+        {
+            id: 0,
+            type: "insta",
+            url: 'https://www.instagram.com/sand_hanitizer_1876/'
+        }
+
+    ]
+},
    {
       entryNum: 893,
       name : 'SRISHTY GOYAL',
